@@ -11,8 +11,19 @@ config_version=5
 [application]
 
 config/name="ProjectTemplate"
+run/main_scene="uid://dpcundnfi62av"
 config/features=PackedStringArray("4.6", "GL Compatibility")
 config/icon="res://icon.svg"
+
+[audio]
+
+buses/default_bus_layout="uid://bvulvmuog3t3j"
+
+[autoload]
+
+Signals="*uid://dabss2cq63da3"
+AudioManager="*uid://dv1mnjcv0myms"
+SceneManager="*uid://bybyxmch02dsm"
 
 [physics]
 
