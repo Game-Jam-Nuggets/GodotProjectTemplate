@@ -25,6 +25,12 @@ Signals="*uid://dabss2cq63da3"
 AudioManager="*uid://dv1mnjcv0myms"
 SceneManager="*uid://bybyxmch02dsm"
 
+[display]
+
+window/size/viewport_width=1920
+window/size/viewport_height=1080
+window/size/mode=2
+
 [physics]
 
 3d/physics_engine="Jolt Physics"
